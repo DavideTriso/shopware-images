@@ -1,6 +1,6 @@
-# Docker Shopware
+# Shopware Images
 
-Image to run Shopware 6 apps in a docker container
+Image to run Shopware 6 apps in a container
 
 ## Quick reference
 
