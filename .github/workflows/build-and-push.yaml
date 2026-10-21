@@ -51,6 +51,6 @@ jobs:
           file: ./${{ matrix.dir }}/Dockerfile
           push: true
           tags: davidetriso/shopware:${{ matrix.dir }}
-          platforms: linux/amd64,linux/arm64
+          platforms: linux/amd64
           cache-from: type=gha
           cache-to: type=gha,mode=max
